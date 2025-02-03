@@ -6,4 +6,5 @@ Each player's objective is to defeat the other. There are four charatcers to cho
 Powerups and Reverse Powerups will appear randomly throughout the game. 
 
 ![image description](https://github.com/adrianneds/RailwayBandit/blob/master/railway-imgs/0.png)
+![image description](https://github.com/adrianneds/RailwayBandit/blob/master/railway-imgs/1.png)
 ![image description](https://github.com/adrianneds/RailwayBandit/blob/master/railway-imgs/2.png)
